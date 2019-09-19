@@ -1,0 +1,83 @@
+id: __id
+name: __name
+description: __description
+created_at: 2019-09-19T18:06:42.006321+09:00
+updated_at: 2019-09-19T18:06:42.006321+09:00
+user:
+  id: __id
+  name: __name
+  description: __description
+  created_at: 2019-09-19T18:06:42.006321+09:00
+  updated_at: 2019-09-19T18:06:42.006321+09:00
+  first_name: __first_name
+  last_name: __last_name
+  gender: __gender
+  birth: 2019-09-19T18:06:42.006321+09:00
+  address:
+    id: ""
+    name: ""
+    description: ""
+    created_at: 0001-01-01T00:00:00Z
+    updated_at: 0001-01-01T00:00:00Z
+    country: __country
+    city: __city
+    state: __state
+    zip_code: __zip_code
+    address_1: __address1
+    address_2: __address2
+  phone_numbers:
+    - id: __id
+      name: __name
+      description: __description
+      created_at: 2019-09-19T18:06:42.006321+09:00
+      updated_at: 2019-09-19T18:06:42.006321+09:00
+      phone_number: __phone_number
+      type: __type
+  snss:
+    - id: __id
+      name: __name
+      description: __description
+      created_at: 2019-09-19T18:06:42.006321+09:00
+      updated_at: 2019-09-19T18:06:42.006321+09:00
+      type: __type
+      account: __account
+      url:
+        scheme: https
+        opaque: ""
+        user: null
+        host: test.test
+        path: ""
+        rawpath: ""
+        forcequery: false
+        rawquery: ""
+        fragment: ""
+education_history:
+  - id: __id
+    name: __name
+    description: __description
+    created_at: 2019-09-19T18:06:42.006321+09:00
+    updated_at: 2019-09-19T18:06:42.006321+09:00
+    got_at: 2019-09-19T18:06:42.006321+09:00
+    type: __type
+work_history:
+  - id: __id
+    name: __name
+    description: __description
+    created_at: 2019-09-19T18:06:42.006321+09:00
+    updated_at: 2019-09-19T18:06:42.006321+09:00
+    got_at: 2019-09-19T18:06:42.006321+09:00
+    type: __type
+reasons_for_applying: __reasons_for_applying
+licences:
+  - id: __id
+    name: __name
+    description: __description
+    created_at: 2019-09-19T18:06:42.006321+09:00
+    updated_at: 2019-09-19T18:06:42.006321+09:00
+    got_at: 2019-09-19T18:06:42.006321+09:00
+extends:
+  - id: __id
+    name: __name
+    description: __description
+    created_at: 2019-09-19T18:06:42.006321+09:00
+    updated_at: 2019-09-19T18:06:42.006321+09:00
